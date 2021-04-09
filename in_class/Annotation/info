@@ -1,0 +1,3 @@
+##Annotation
+IOC 컨테이너에 객체를 넣는 방법 중 하나.
+xml 파일에 context 설정 후 클래스에 @component 
